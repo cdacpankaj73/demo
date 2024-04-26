@@ -1,2 +1,3 @@
 i am pankaj
 
+git remote set-url origin https://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@github.com/cdacpankaj73/demo
